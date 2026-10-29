@@ -10,8 +10,8 @@ Official OTA metadata and release channel for Project Infinity-X on Redmi 13 5G 
 - **Variant:** Vanilla (`WITH_GAPPS=false`)
 - **Build Date:** 2026-10-29
 - **Package Name:** `Project_Infinity-X-4.1-20261029-RELEASE-VANILLA-breeze.zip`
-- **MD5:** `3d56b1fd9619a3869dc99a5f8e077d2d`
-- **SHA-256:** `4e2fcc305c7b131120fa29825a77d65c276bfe4c990eb2324f8762a616a169c2`
+- **MD5:** `a0ebbb43cb1886f1665a33aaa8b49c85`
+- **SHA-256:** `fc5d679065a11d98caa3ba9984f3a08713683e198baf6a66f9bc72c682678de6`
 
 ## OTA Feed
 
