@@ -1,0 +1,27 @@
+⚡ Project Infinity-X 4.1 | OFFICIAL | Android 17
+📱 Xiaomi Redmi 13 5G / POCO M6 Plus 5G (breeze)
+👤 Maintainer: @wandererfirst
+📅 Build Date: 2026-10-29
+📦 Variant: Vanilla (WITH_GAPPS=false)
+🛡 Security Patch: Latest
+
+▪️ Changelog & Highlights:
+• Initial Official Android 17 (Vanilla) Release
+• Rebranded native Updater to Project Infinity-X (com.infinity.updater) with Compose UI
+• Updater: Default OTA storage directory set to /data/infinity_updates/ with matching SELinux contexts
+• Updater: Integrated in-app live GitHub changelog viewer
+• Quick Settings: Wi-Fi popup configured with Wi-Fi and Hotspot only
+• Quick Settings: Mobile data QS tile toggles data directly on tap by default
+• Quick Settings: Mobile data dialog includes Hotspot alongside Mobile Data and 5G toggles
+• Survival: Guaranteed GApps persistence across OTA updates (MindTheGapps, NikGApps, BitGApps) via dynamic partition backuptool fix
+• Device: Upgraded libwfd and audio HAL dependencies for Android 17
+
+▪️ Installation Notes:
+• Recommended Recovery: Project Infinity-X Recovery / OrangeFox
+• Clean flash is recommended when upgrading to Android 17.
+• GApps: Flash MindTheGapps (or BitGApps / NikGApps) immediately after flashing ROM if desired; survival scripts ensure persistence across future OTA updates.
+
+▪️ Download & Support:
+• Releases: https://github.com/Wanderer-s-Development/infinityx-ota/releases
+• OTA Changelog: https://raw.githubusercontent.com/Wanderer-s-Development/infinityx-ota/main/changelog.txt
+• Community & Discussion: @ProjectInfinityX
