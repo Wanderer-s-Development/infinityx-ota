@@ -4,10 +4,11 @@ Device: Redmi 13 5G / POCO M6 Plus 5G (breeze)
 Maintainer: Wanderer
 ==================================================
 • Initial Official Android 17 (Vanilla) Release
+• Updater: Rebranded modern Updater to native Project Infinity-X (com.infinity.updater)
+• Updater: Set default OTA download directory to /data/infinity_updates/ with matching SELinux contexts
+• Updater: Integrated in-app live GitHub changelog viewer
 • Quick Settings: Wi-Fi popup configured with Wi-Fi and Hotspot only
 • Quick Settings: Mobile data QS tile toggles data directly by default
 • Quick Settings: Mobile data dialog includes Hotspot alongside Mobile Data and 5G toggles
-• Updater: Integrated in-app live GitHub changelog viewer
-• Updater: Updated download directory to /data/lineage_updates/ with full SELinux permissions
 • Survival: Guaranteed GApps persistence across OTA updates (MindTheGapps, NikGApps, BitGApps)
 • Device: Upgraded libwfd and audio HAL dependencies for Android 17
