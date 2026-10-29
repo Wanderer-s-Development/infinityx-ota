@@ -1,17 +1,17 @@
 {
   "response": [
     {
-      "datetime": 1793041814,
-      "filename": "Project_Infinity-X-4.1-20261026-RELEASE-VANILLA-breeze.zip",
-      "id": "2846478dc558efa9538615fffba6dc26",
+      "datetime": 1793235241,
+      "filename": "Project_Infinity-X-4.1-20261029-RELEASE-VANILLA-breeze.zip",
+      "id": "0381c79b692c64a3125cb42fc3b7c857a2c53a05cbe9f66d628dd6f7b6c185ba",
       "romtype": "release",
-      "size": 1516323598,
-      "url": "https://github.com/Wanderer-s-Development/infinityx-ota/releases/download/v4.1-breeze-20261026/Project_Infinity-X-4.1-20261026-RELEASE-VANILLA-breeze.zip",
+      "size": 1516432460,
+      "url": "https://github.com/Wanderer-s-Development/infinityx-ota/releases/download/v4.1-breeze-20261029/Project_Infinity-X-4.1-20261029-RELEASE-VANILLA-breeze.zip",
       "version": "4.1",
-      "download": "https://github.com/Wanderer-s-Development/infinityx-ota/releases/download/v4.1-breeze-20261026/Project_Infinity-X-4.1-20261026-RELEASE-VANILLA-breeze.zip",
-      "timestamp": 1793041814,
-      "md5": "2846478dc558efa9538615fffba6dc26",
-      "sha256": "b1005eeca9ed352f901dc787eb82f8f3c4e7c119864104ea992c1374efbd8907"
+      "download": "https://github.com/Wanderer-s-Development/infinityx-ota/releases/download/v4.1-breeze-20261029/Project_Infinity-X-4.1-20261029-RELEASE-VANILLA-breeze.zip",
+      "timestamp": 1793235241,
+      "md5": "5e84f33ec5e4fad0cdc5c1587024ffce",
+      "sha256": "0381c79b692c64a3125cb42fc3b7c857a2c53a05cbe9f66d628dd6f7b6c185ba"
     }
   ]
 }
