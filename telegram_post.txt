@@ -21,7 +21,7 @@
 • Clean flash is recommended when upgrading to Android 17.
 • GApps: Flash MindTheGapps (or BitGApps / NikGApps) immediately after flashing ROM if desired; survival scripts ensure persistence across future OTA updates.
 
-▪️ Download & Support:
-• Releases: https://github.com/Wanderer-s-Development/infinityx-ota/releases
-• OTA Changelog: https://raw.githubusercontent.com/Wanderer-s-Development/infinityx-ota/main/changelog.txt
+▪️ Download:
+• ROM: https://github.com/Wanderer-s-Development/infinityx-ota/releases/download/v4.1-breeze-20261029/Project_Infinity-X-4.1-20261029-RELEASE-VANILLA-breeze.zip
+• Changelog: https://raw.githubusercontent.com/Wanderer-s-Development/infinityx-ota/main/changelog.txt
 • Community & Discussion: @ProjectInfinityX
