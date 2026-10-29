@@ -8,10 +8,10 @@ Official OTA metadata and release channel for Project Infinity-X on Redmi 13 5G 
 - **Android Version:** Android 17 (Lineage 24.0 base)
 - **Device:** Redmi 13 5G / POCO M6 Plus 5G (`breeze`)
 - **Variant:** Vanilla (`WITH_GAPPS=false`)
-- **Build Date:** 2026-10-26
-- **Package Name:** `Project_Infinity-X-4.1-20261026-RELEASE-VANILLA-breeze.zip`
-- **MD5:** `2846478dc558efa9538615fffba6dc26`
-- **SHA-256:** `b1005eeca9ed352f901dc787eb82f8f3c4e7c119864104ea992c1374efbd8907`
+- **Build Date:** 2026-10-29
+- **Package Name:** `Project_Infinity-X-4.1-20261029-RELEASE-VANILLA-breeze.zip`
+- **MD5:** `5e84f33ec5e4fad0cdc5c1587024ffce`
+- **SHA-256:** `0381c79b692c64a3125cb42fc3b7c857a2c53a05cbe9f66d628dd6f7b6c185ba`
 
 ## OTA Feed
 
