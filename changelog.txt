@@ -1,4 +1,16 @@
 ==================================================
+Project Infinity-X 4.1 (20261106) [INTERNAL TEST]
+Device: Redmi 13 5G / POCO M6 Plus 5G (breeze)
+Maintainer: Wanderer
+==================================================
+• Consumer IR: Implemented 1.92 MHz SPI bitstream carrier modulation (38 kHz @ 33.3% duty cycle) for /dev/ir_spi (Qualcomm QUPv3 SE6)
+• Consumer IR: Fixed TV and appliance IR remote transmission
+• Camera: Fixed MiuiCamera (Leica) crash on startup; resolved DEX verification errors
+• Camera: Bypassed Xiaomi cloud security and persist check safely without bytecode corruption
+• GApps: MindTheGapps pre-integrated (WITH_GAPPS=true)
+• SELinux: Enforcing mode preserved
+
+==================================================
 Project Infinity-X 4.1 (20261029)
 Device: Redmi 13 5G / POCO M6 Plus 5G (breeze)
 Maintainer: Wanderer
